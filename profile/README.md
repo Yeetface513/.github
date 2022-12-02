@@ -2,14 +2,21 @@
 ### A small but passionate team of developers!
 
 ## Projects:
-[PHPChat](PHPChat.gq)
-PHPChat android and iOS apps
-Games such as run3, slope etc.
+[Dispatch](dispatch.ml)
+
+Dispatch android app is on the way, potentially an iOS app as well...
+
+Games such as run3, slope etc on our website
+
 A Minecraft server
 
 ## Community
 Subreddit on the way!
+
 Feel free to give suggestions
 
+Pull requests and issues are welcome!
+
 ## Fun Fact
-The case of the iPhone is copyrighted 
+
+On [GoneRogue.ml](Gonerogue.ml) our about page was written by an AI!
