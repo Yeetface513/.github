@@ -20,3 +20,7 @@ Pull requests and issues are welcome!
 ## Fun Fact
 
 On [GoneRogue.ml](Gonerogue.ml) our about page was written by an AI!
+
+## Stats
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=gonerogueproductions.gonerogueproductions" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gonerogueproductions&show_icons=true&theme=great-gatsby" alt="tomondre" />
