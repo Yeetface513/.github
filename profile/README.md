@@ -3,20 +3,17 @@
 
 ## Projects:
 
-- [Dispatch](dispatch.ml)
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=PHP and AJAX&color=purple' /> [Dispatch](http://dispatch.ml) is a privacy-centric chat service
 
-- [chordcss](gerchord.ml)
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=CSS&color=lightblue' /> [chordcss](http://getchord.ml) makes CSS better
 
-- Rosemary 
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=CPP&color=darkblue' /> [Rosemary](http://GitHub.com/gonerogueproductions/Rosemary) makes programming easier but with brackets not indentation 
 
-- Dispatch android app is on the way, potentially an iOS app as well...
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=Flutter&color=blue' /> Dispatch multi-platform Flutter app will make Dispatch available everywhere
 
-- Games such as run3, slope etc on our website
-
-- A Minecraft server
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=HTML, CSS and JS&color=orange' /> Games such as run3, slope etc on our website
 
 ## Community
-- Subreddit on the way!
 
 - Feel free to give suggestions
 
@@ -24,7 +21,7 @@
 
 ## Fun Fact
 
-On [GoneRogue.ml](Gonerogue.ml) our about page was written by an AI!
+- The Linux penguin is called Tux!
 
 ## Contributing
 - Right now, we would really appreciate if you
