@@ -4,7 +4,7 @@
 
 ## Projects:
 
-- <img SRC='https://img.shields.io/static/v1?label=Written In&message=PHP and AJAX&color=purple' /> [Dispatch](http://dispatch.ml) is a privacy-centric chat service
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=PHP and AJAX&color=purple' /> [Dispatch](http://dispatch.ml) is a privacy-centric chat service that we are planning to open source 
 
 - <img SRC='https://img.shields.io/static/v1?label=Written In&message=CSS&color=lightblue' /> [chordcss](http://getchord.ml) makes CSS better
 
