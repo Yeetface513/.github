@@ -8,7 +8,7 @@
 
 - <img SRC='https://img.shields.io/static/v1?label=Written In&message=CSS&color=lightblue' /> [chordcss](http://getchord.ml) makes CSS better
 
-- <img SRC='https://img.shields.io/static/v1?label=Written In&message=CPP&color=darkblue' /> [Rosemary](http://GitHub.com/gonerogueproductions/Rosemary) makes programming easier but with brackets not indentation 
+- <img SRC='https://img.shields.io/static/v1?label=Written In&message=CPP&color=darkblue' /> [Rosemary](http://GitHub.com/gonerogueproductions/Rosemary) makes programming easier but with brackets not indentation -- [now found at https://github.com/TheRosemaryProject](https://github.com/TheRosemaryProject)
 
 - <img SRC='https://img.shields.io/static/v1?label=Written In&message=Flutter&color=blue' /> Dispatch multi-platform Flutter app will make Dispatch available everywhere
 
