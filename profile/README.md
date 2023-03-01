@@ -4,7 +4,7 @@
 ## Security Alert
 - We have been notified of a potential security threat
 - We are working to mitigate this risk, however in the mean time Dispatch and other services will be down
-- Thanks from werdl, 01/03/23
+- Thanks from us all, 01/03/23
 ## Projects:
 
 - <img SRC='https://img.shields.io/static/v1?label=Written In&message=PHP and AJAX&color=purple' /> [Dispatch](http://dispatch.ml) is a privacy-centric chat service that we are planning to open source 
